@@ -1,0 +1,3 @@
+[submodule "sub-sub-A"]
+	path = sub-sub-A
+	url = git@github.com:wolfsilver/sub-A.git
